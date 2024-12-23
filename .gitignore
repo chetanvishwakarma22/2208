@@ -1,0 +1,9 @@
+.txt
+*.log
+readme.md
+dir/
+dir1/
+html
+yaml
+*.json
+
